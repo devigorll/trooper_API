@@ -1,0 +1,22 @@
+# Ambientes Virtuais Python
+.venv/
+venv/
+env/
+ENV/
+
+# Arquivos temporários e cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Configurações de IDEs e Editores
+.vscode/
+.idea/
+
+# Variáveis de ambiente e credenciais (para não subir senhas do SQL Server)
+.env
+*.env
+
+# Logs do sistema/servidor
+*.log
